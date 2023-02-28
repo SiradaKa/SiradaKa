@@ -1,7 +1,7 @@
 ### 🪴 Hi there 🪴
 - 👩🏽‍💻 I'm a student studying my master in Complex adaptive systems.
 - 🌱 I’m currently learning Python.
-- 🦦 My favorite animal is sea otters. 
+- 🦦 My favorite animal is the sea otter. 
 
 <!--
 **SiradaKa/SiradaKa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
