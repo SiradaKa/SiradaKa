@@ -1,6 +1,5 @@
 ### 🪴 Hi there 🪴
 - 👩🏽‍💻 I'm a student studying my master in Complex adaptive systems.
-- 🌱 I’m currently learning Python.
 - 🦦 My favorite animal is the sea otter. 
 
 <!--
