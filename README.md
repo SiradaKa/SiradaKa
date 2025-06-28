@@ -1,5 +1,5 @@
 ### 🪴 Hi there 🪴
-- 👩🏽‍💻 I'm a student studying my master in Complex adaptive systems.
+- 👩🏽‍💻 I'm a currently worken as a Data engineer
 - 🦦 My favorite animal is the sea otter. 
 
 <!--
